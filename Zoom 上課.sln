@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoom 上課", "Zoom 上課.csproj", "{EA076D8B-1847-49EC-83CA-0EA3A5E72DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA076D8B-1847-49EC-83CA-0EA3A5E72DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA076D8B-1847-49EC-83CA-0EA3A5E72DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA076D8B-1847-49EC-83CA-0EA3A5E72DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA076D8B-1847-49EC-83CA-0EA3A5E72DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97022FB-DC46-42B8-846B-C14181CC57FF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+Monday
+Prof Management,5:00pm-7:00pm, https://adelaide.zoom.us/j/87071177690?pwd=UnJhaWJQU0wyUjY2bElMUWdnem1DQT09
+Personal pro dev,7:00pm-9:00pm, https://adelaide.zoom.us/j/83495048728?pwd=UEo5MzlMUHI0KzRJL21nQ1kwYlNoZz09
+Tuesday
+Wednesday
+Stat Prac I,3:00pm-5:00pm, https://adelaide.zoom.us/j/83789999497?pwd=WHcwK2tWRDdKSm9OZnRaMURxaVRwUT09
+Thursday
+Personal pro dev,7:00pm-9:00pm, https://adelaide.zoom.us/j/83495048728?pwd=UEo5MzlMUHI0KzRJL21nQ1kwYlNoZz09
+Friday
+Prof Management,5:00pm-7:00pm, https://adelaide.zoom.us/j/87071177690?pwd=UnJhaWJQU0wyUjY2bElMUWdnem1DQT09
+Applied Programming,7:00pm-9:00pm, https://adelaide.zoom.us/j/3326060015?pwd=VkVwVVprOENPZFZ5RC9tNnhQbEVQUT09

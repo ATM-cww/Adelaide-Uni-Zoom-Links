@@ -1,0 +1,39 @@
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Zoom 上課.exe.config
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Zoom 上課.exe
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Zoom 上課.pdb
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Guna.UI2.dll
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csprojAssemblyReference.cache
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom_上課.main.resources
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom_上課.Properties.Resources.resources
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom_上課.Room.resources
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.GenerateResource.cache
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.CoreCompileInputs.cache
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.CopyComplete
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.exe
+E:\程式\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.pdb
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Zoom 上課.exe.config
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Zoom 上課.exe
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\bin\Debug\Zoom 上課.pdb
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom_上課.main.resources
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom_上課.Properties.Resources.resources
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom_上課.Room.resources
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.GenerateResource.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.CoreCompileInputs.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.CopyComplete
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.exe
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.pdb
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.AssemblyReference.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom 上課\obj\Debug\Zoom 上課.csproj.SuggestedBindingRedirects.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\bin\Debug\Zoom 上課.exe.config
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\bin\Debug\Zoom 上課.exe
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\bin\Debug\Zoom 上課.pdb
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.csproj.AssemblyReference.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.csproj.SuggestedBindingRedirects.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom_上課.main.resources
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom_上課.Properties.Resources.resources
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom_上課.Room.resources
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.csproj.GenerateResource.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.csproj.CoreCompileInputs.cache
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.csproj.CopyComplete
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.exe
+E:\程序\C#\Windows Form\實用  Practical\Zoom link\obj\Debug\Zoom 上課.pdb
